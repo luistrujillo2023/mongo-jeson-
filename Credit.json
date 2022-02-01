@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "61eeaf6aaf3be06ead7cc305"
+  },
+  "product_id": "61ee025a426aab09782e10d3",
+  "card_number": "f1605f7d-a58e-4f11-8aef-7b9ac52a83fe",
+  "card_type": "MASTERCARD",
+  "cvv": "276",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeaf7aaf3be06ead7cc306"
+  },
+  "product_id": "61ee038a426aab09782e10d7",
+  "card_number": "72ee24dc-27d8-4b33-bcc3-4011cab60335",
+  "card_type": "VISA",
+  "cvv": "102",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeafacaf3be06ead7cc307"
+  },
+  "product_id": "61ee041b426aab09782e10da",
+  "card_number": "6350a1d2-d0bb-4d0a-9bd4-a7e49ed1c37e",
+  "card_type": "MASTERCARD",
+  "cvv": "176",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeafc2af3be06ead7cc308"
+  },
+  "product_id": "61ee04b2426aab09782e10dc",
+  "card_number": "f5d324f6-3479-4c04-8d81-1b6d228de894",
+  "card_type": "VISA",
+  "cvv": "522",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeafd7af3be06ead7cc309"
+  },
+  "product_id": "61ee04f4426aab09782e10df",
+  "card_number": "09975987-7765-4914-8e85-2180374bced1",
+  "card_type": "VISA",
+  "cvv": "441",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeafebaf3be06ead7cc30a"
+  },
+  "product_id": "61ee052a426aab09782e10e2",
+  "card_number": "3d230fb2-4a20-4312-89ab-beff33b891f2",
+  "card_type": "VISA",
+  "cvv": "057",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+},{
+  "_id": {
+    "$oid": "61eeaff8af3be06ead7cc30b"
+  },
+  "product_id": "61ee055f426aab09782e10e4",
+  "card_number": "93491a14-b97a-4b3e-bbb5-62ac420dd1b4",
+  "card_type": "VISA",
+  "cvv": "033",
+  "month": 1,
+  "year": 2027,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.cardms.model.Card"
+}]
